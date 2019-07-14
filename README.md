@@ -1,5 +1,5 @@
 # My-NLP-Learning
-This project show my practice on NLP according to
+This project show my practice on NLP according to the NLP lesson
 
 The first lesson is about N-gram language model and sentence pattern
 
